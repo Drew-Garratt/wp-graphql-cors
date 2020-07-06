@@ -1,0 +1,15 @@
+{
+  "name": "DrewGarratt/wp-graphql-cors",
+  "description": "The primary purpose of this plugin is to make the WP GraphQL plugin authentication \"just work\". It does this by allowing you set the CORS headers that GraphQL will accept, which means that WordPress's default authentication cookies will be accepted.",
+  "keywords": ["wordpress", "plugin"],
+  "authors": [
+    {
+      "name": "https://github.com/funkhaus/wp-graphql-cors",
+      "homepage": "https://github.com/funkhaus/wp-graphql-cors"
+    }
+  ],
+  "type": "wordpress-plugin",
+  "require": {
+    "php": ">=5.6"
+  }
+}
